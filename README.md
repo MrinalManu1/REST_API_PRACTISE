@@ -100,3 +100,6 @@ Notes
 This API uses an in-memory array for storing books. Data will reset when the server restarts.
 
 No PATCH endpoint is included, as per assignment requirements.
+
+Screen shots of the results
+![Screenshot 2025-05-29 154136](https://github.com/user-attachments/assets/01b6ecf0-eddd-4347-8730-8a436490a47d)
