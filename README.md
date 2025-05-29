@@ -102,10 +102,11 @@ This API uses an in-memory array for storing books. Data will reset when the ser
 No PATCH endpoint is included, as per assignment requirements.
 
 Screen shots of the results
-![Screenshot 2025-05-29 160009](https://github.com/user-attachments/assets/b19fb635-8b1f-42cd-99d8-a76cd3721cd7)
-![Screenshot 2025-05-29 155127](https://github.com/user-attachments/assets/c4e1bb72-2683-4c98-bd73-ce9d15dc57fb)
-![Screenshot 2025-05-29 154834](https://github.com/user-attachments/assets/5fd6220b-3095-44ee-868b-1c8a80f466e2)
-![Screenshot 2025-05-29 154136](https://github.com/user-attachments/assets/f4cd4e22-8b0f-423b-b607-c3849103afb1)
+![Screenshot 2025-05-29 162615](https://github.com/user-attachments/assets/aaad39fc-cb8b-4406-9042-766efcfa68e6)
+![Screenshot 2025-05-29 162608](https://github.com/user-attachments/assets/e7a1249e-d188-446f-9916-876bc2cfaf61)
+![Screenshot 2025-05-29 162601](https://github.com/user-attachments/assets/cf6c29cf-6384-4e57-ad7a-028bb6f21c93)
+![Screenshot 2025-05-29 162554](https://github.com/user-attachments/assets/5ab6a673-5136-498f-b313-461394491a19)
+
 
 
 
